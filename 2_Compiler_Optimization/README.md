@@ -8,7 +8,7 @@
 
 ## setting up notes for Visual C++ in Visual Studio 2022.
 
-!!!MS Visual C++ !!!! if you have this error code. 
+!!!MS Visual C++ !!!! if you have this error code while adjust compiler optimization level
 Severity	Code	Description	Project	File	Line	Suppression State
 Error	D8016	'/Ox' and '/RTC1' command-line options are incompatible
 
