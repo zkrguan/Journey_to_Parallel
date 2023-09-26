@@ -1,4 +1,4 @@
-# OpenMP learning from the Tim Mattson
+# OpenMP sessions from the Tim Mattson
 
 Vid link: <https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG&index=1>
 
@@ -111,16 +111,79 @@ Open MP actually hides the details and complexity of the pthread.
 
 ![Alt text](image-9.png)
 
+## Cyclic distribution of the loop iteration
+
+This is sometimes called round robin distribution.
+
+It is like dealing out a deck of cards to the players.
+
+The card is the task, and the players are the threads.
+
+![Alt text](image-12.png)
+
+**noticed** the i,id,nthrds, x they are declared inside the **#pragma omp parallel**, so each thread will have a copy of those on their stacks.
+
+Outside the parallel block, those variables will be gone, how to keep the result from each thread?
+
+You cannot simply do the accumulation in the parallel block because this will be a race.
+
+What's the solution?
+
+### How about promote the sum into an array, each element represents a sum of that specific thread.
+
+![Alt text](image-14.png)
+
+### The API might give you less threads than you asked for
+
+That's why we check here
+![Alt text](image-13.png)
+
+### Results
+
+The scalability sucks. Why is it like this?
+
+![Alt text](image-15.png)
+
+Introduce false sharing below.
+
 ## False sharing
 
+![Alt text](image-16.png)
+
+Every time, one thread write, the other thread cannot do anything.
+
+![Alt text](image-17.png)
+
+How to solve this?
+
+Ugly way:
+
+Made the result array into a 2D array. So, it is forcing the results are not on the same cache line.
+
+![Alt text](image-18.png)
+
+But, you have to figure out the size of the cache line adjust the PAD accordingly.
+![Alt text](image-19.png)
+
+Are there any more elegant and portable ways to do this?
 
 ## Sync
+
+### In open MP, you only need to care about these two sync constructs
 
 1. Barrier:
 
 Each thread wait at the barrier until all threads arrive.
 
 ![Alt text](image-10.png)
+
+Example code:
+
+![Alt text](image-21.png)
+
+make sure array A is ready before the calculation on Array B.
+
+BTW, this looks like the perfect example for dependency.
 
 2. Mutual Exclusion:
 
@@ -129,5 +192,14 @@ Define a block of code that only one thread at a time can execute.
 
 ![Alt text](image-11.png)
 
+Example Code:
+
+For this block of code, I am only letting one thread execute this line of code.
+
+![Alt text](image-20.png)
+
+Hint: Make sure the big_job is worth all the overhead. Critical overhead does matter for the performance.
+
 There are more sync tools, but we will only focus on these two now.
 
+### There are more in the future but so far this is enough for beginners
