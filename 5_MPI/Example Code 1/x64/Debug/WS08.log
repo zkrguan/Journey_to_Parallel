@@ -1,0 +1,10 @@
+﻿WS08.cpp(499,17): : warning : unused variable 'msgTag' [-Wunused-variable]
+              int msgTag = END;
+                  ^
+WS08.cpp(533,13): : warning : variable 'msgTag' set but not used [-Wunused-but-set-variable]
+          int msgTag = BEGIN;
+              ^
+WS08.cpp(408,9): : warning : unused variable 'result' [-Wunused-variable]
+      int result = MPI_Init(&argc, &argv);
+          ^
+  3 warnings generated.

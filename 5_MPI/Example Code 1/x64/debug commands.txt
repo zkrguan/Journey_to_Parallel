@@ -1,0 +1,8 @@
+
+
+
+C:\Program Files (x86)\Intel\oneAPI\mpi\2021.10.0\bin\mpiexec.exe
+
+-n 4 "C:\Users\zkrgu\OneDrive\Desktop\2023_Fall\CPA\GPU621\Assignments\A8\WS08\x64\Debug\WS08.exe" 20 20 10
+
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-n 2 "C:\Users\zkrgu\OneDrive\Desktop\2023_Fall\CPA\GPU621\Assignments\A9\GPUA9\x64\Debug\GPUA9.exe" 2</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>C:\Program Files (x86)\Intel\oneAPI\mpi\2021.10.0\bin\mpiexec.exe</LocalDebuggerCommand>
+  </PropertyGroup>
+</Project>

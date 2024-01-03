@@ -1,0 +1,2031 @@
+Iteration 1
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 2
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 3
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 4
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 5
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 6
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 7
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 8
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 9
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 10
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 11
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 12
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 13
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 14
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 15
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 16
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 17
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 18
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 19
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 20
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 21
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 22
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 23
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 24
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 25
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 26
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 27
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 28
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 29
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 30
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 31
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 32
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 33
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 34
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 35
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 36
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 37
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 38
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 39
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 40
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 41
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 42
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 43
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 44
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 45
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 46
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 47
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 48
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 49
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 50
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+
+w8 Domain Decomposition  - took - 100 milliseconds
+Number of Partitions 4
+Number of Rows       20
+Number of Columns    20
+Checksums = 969139,974637
+
+C:\Users\zkrgu\OneDrive\Desktop\2023_Fall\CPA\GPU621	\Assignments\A8\WS08\x64\Debug\WS08.exe (process 3092) exited with code 0.
+Press any key to close this window . . .
+
+
+Iteration 1
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 2
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 3
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 4
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 5
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 6
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 7
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 8
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 9
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 10
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 11
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 12
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 13
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 14
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 15
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 16
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 17
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 18
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 19
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 20
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 21
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 22
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 23
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 24
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 25
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 26
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 27
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 28
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 29
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 30
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 31
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 32
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 33
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 34
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 35
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 36
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 37
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 38
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 39
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 40
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 41
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 42
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 43
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 44
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 45
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 46
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 47
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 48
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 49
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 50
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 51
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 52
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 53
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 54
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 55
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 56
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 57
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 58
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 59
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 60
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 61
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 62
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 63
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 64
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 65
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 66
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 67
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 68
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 69
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 70
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 71
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 72
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 73
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 74
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 75
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 76
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 77
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 78
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 79
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 80
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 81
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 82
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 83
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 84
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 85
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 86
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 87
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 88
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 89
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 90
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 91
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 92
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 93
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 94
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 95
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 96
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 97
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 98
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 99
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 100
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 101
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 102
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 103
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 104
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 105
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 106
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 107
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 108
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 109
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 110
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 111
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 112
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 113
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 114
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 115
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 116
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 117
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 118
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 119
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 120
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 121
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 122
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 123
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 124
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 125
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 126
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 127
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 128
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 129
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 130
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 131
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 132
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 133
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 134
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 135
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 136
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 137
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 138
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 139
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 140
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 141
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 142
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 143
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 144
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 145
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 146
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 147
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 148
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 149
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 150
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+
+w8 Domain Decomposition  - took - 300 milliseconds
+Number of Partitions 4
+Number of Rows       20
+Number of Columns    20
+Checksums = 556694,559759
+
+C:\Users\zkrgu\OneDrive\Desktop\2023_Fall\CPA\GPU621\Assignments\A8\WS08\x64\Debug\WS08.exe (process 19976) exited with code 0.
+Press any key to close this window . . .
+
+Iteration 1
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 2
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 3
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 4
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 5
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 6
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 7
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 8
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 9
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 10
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 11
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 12
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 13
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 14
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 15
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 16
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 17
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 18
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 19
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 20
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 21
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 22
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 23
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 24
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 25
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 26
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 27
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 28
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 29
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 30
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 31
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 32
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 33
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 34
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 35
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 36
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 37
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 38
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 39
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 40
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 41
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 42
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 43
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 44
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 45
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 46
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 47
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 48
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 49
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 50
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 51
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 52
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 53
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 54
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 55
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 56
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 57
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 58
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 59
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 60
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 61
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 62
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 63
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 64
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 65
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 66
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 67
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 68
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 69
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 70
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 71
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 72
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 73
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 74
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 75
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 76
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 77
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 78
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 79
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 80
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 81
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 82
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 83
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 84
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 85
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 86
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 87
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 88
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 89
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 90
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 91
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 92
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 93
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 94
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 95
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 96
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 97
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 98
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 99
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 100
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 101
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 102
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 103
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 104
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 105
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 106
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 107
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 108
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 109
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 110
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 111
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 112
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 113
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 114
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 115
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 116
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 117
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 118
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 119
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 120
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 121
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 122
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 123
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 124
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 125
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 126
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 127
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 128
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 129
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 130
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 131
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 132
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 133
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 134
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 135
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 136
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 137
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 138
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 139
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 140
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 141
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 142
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 143
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 144
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 145
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 146
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 147
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 148
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 149
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 150
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 151
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 152
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 153
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 154
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 155
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 156
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 157
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 158
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 159
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 160
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 161
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 162
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 163
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 164
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 165
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 166
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 167
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 168
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 169
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 170
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 171
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 172
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 173
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 174
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 175
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 176
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 177
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 178
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 179
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 180
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 181
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 182
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 183
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 184
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 185
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 186
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 187
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 188
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 189
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 190
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 191
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 192
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 193
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 194
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 195
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 196
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 197
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 198
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 199
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+Iteration 200
+ Sent to worker 0 5 rows [row rowOffset 0] above 0 below 1
+ Sent to worker 1 5 rows [row rowOffset 5] above 0 below 2
+ Sent to worker 2 5 rows [row rowOffset 10] above 1 below 3
+ Sent to worker 3 5 rows [row rowOffset 15] above 2 below 0
+
+w8 Domain Decomposition  - took - 383 milliseconds
+Number of Partitions 4
+Number of Rows       20
+Number of Columns    20
+Checksums = 423214,425539
+
+C:\Users\zkrgu\OneDrive\Desktop\2023_Fall\CPA\GPU621\Assignments\A8\WS08\x64\Debug\WS08.exe (process 14228) exited with code 0.
+Press any key to close this window . . .
+
